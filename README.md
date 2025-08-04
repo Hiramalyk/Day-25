@@ -28,3 +28,11 @@ Developed a simple Student Record System
 Written in Python using functions and modules
 Focused on clean structure and real-world logic
 This project taught me how to build user-friendly logic and handle real input/output.
+🟩 Key Features:
+
+I structured the project using simple Python functions.
+It includes:
+Adding student records
+Viewing a list of all students
+Exporting data to a .csv file
+The code is clean, short, and easy to understand — and can be extended later.
